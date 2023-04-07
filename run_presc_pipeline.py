@@ -4,6 +4,8 @@ from create_objects import get_spark_object
 from validations import get_curr_date
 import sys
 
+
+
 def main():
     try:
         ### Get Spark Object
